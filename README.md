@@ -1,5 +1,5 @@
 # trabalhofeira
-Destinado ao grupo e a professores orientadores da Mostra de Tecnologia FUNEC RIACHO
+Destinado ao grupo e a professores orientadores da Mostra de Tecnologia FUNEC RIACHO <br>
 Alunos envolvidos: 
 Ana Liz;
 Gabriel Parreiras;
